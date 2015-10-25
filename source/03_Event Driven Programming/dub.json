@@ -1,0 +1,10 @@
+{
+	"name": "sdl2",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2015, xky",
+	"authors": ["xky"],
+	"compiler":["ldc"],
+	"dependencies": {
+		"derelict-sdl2": "~>1.9.7"
+	}
+}
